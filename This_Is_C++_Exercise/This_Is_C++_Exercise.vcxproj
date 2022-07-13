@@ -143,7 +143,10 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch02-1.txt" />
+    <Text Include="ch02-1~5.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch02-6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -29,7 +29,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch02-1.txt">
+    <Text Include="ch02-1~5.txt">
+      <Filter>소스 파일\ch02</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch02-6.cpp">
       <Filter>소스 파일\ch02</Filter>
     </ClCompile>
   </ItemGroup>

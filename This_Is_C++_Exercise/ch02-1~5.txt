@@ -1,0 +1,5 @@
+#1 The default value of the callee function parameter must be described from the right parameter.
+#2 The function ambiguity can be caused by function overloading with default parameter.
+#3 Don't have to define variable type and more simple.
+#4 Can overcome overhead due to function calls.
+#5 using
